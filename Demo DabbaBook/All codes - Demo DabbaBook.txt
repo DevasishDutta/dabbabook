@@ -1,0 +1,6 @@
+Deployment ID : AKfycbxplrweA1cpHhfNRUe-y6Yg612Terq8cjxqkvO6Q2d18AZGfk-IuFep6uuyV5H6ZNRtqA
+
+URL : https://script.google.com/macros/s/AKfycbxplrweA1cpHhfNRUe-y6Yg612Terq8cjxqkvO6Q2d18AZGfk-IuFep6uuyV5H6ZNRtqA/exec
+
+API TOKEN : th_secret_2026
+

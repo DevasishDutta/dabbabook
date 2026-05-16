@@ -1,0 +1,13 @@
+Deployment ID : AKfycbzsLgfP0tQEGQWFH4Hw09g-s_q5HlGrmZ7H8X63stAlxb-Cc446tmxqIuibTZ_Danfh
+
+URL : https://script.google.com/macros/s/AKfycbzsLgfP0tQEGQWFH4Hw09g-s_q5HlGrmZ7H8X63stAlxb-Cc446tmxqIuibTZ_Danfh/exec
+
+API : 9a52e87e-80e3-40bd-b4d9-a104ceea35b5
+
+
+https://storefront-dashboard-nine.vercel.app
+
+NEXT_PUBLIC_API_URL = Apps Script Web App URL
+NEXT_PUBLIC_API_TOKEN = Token from Config sheet
+NEXT_PUBLIC_USERNAME = devasish
+NEXT_PUBLIC_PASSWORD = devasish@1234
